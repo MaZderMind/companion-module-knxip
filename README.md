@@ -1,3 +1,6 @@
+# Moved
+Moved to https://github.com/bitfocus/companion-module-knx-ip
+
 # Dev-Docs
 
 ## Getting Started
